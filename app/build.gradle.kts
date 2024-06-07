@@ -66,4 +66,10 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+
+    // splash api
+//    implementation(libs.androidx.core.splashscreen)
+
+    // shared preference
+//    implementation(libs.androidx.preference.ktx)
 }
